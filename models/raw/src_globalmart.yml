@@ -5,6 +5,6 @@ sources:
     database: raw
     schema: globalmart
     tables:
-      -name: customers
-      -name: orders
-      -name: product
+      - name: CUSTOMERS
+      - name: ORDERS
+      - name: PRODUCT
