@@ -6,4 +6,4 @@
 
 
 select * from
-{{ source('globalmart', 'orders') }}
+raw.globalmart.orders
